@@ -74,7 +74,7 @@ My plan to take my projects to the next level:
 
 - [x] **v1.0:** Decoupled Architecture (React + Node) & SQL Persistence.
 - [x] **v1.5:** Refactor to **Clean Architecture** & Components.
-- [ ] **v2.0:** Migration to **TypeScript** for type safety.
+- [x] **v2.0:** Migration to **TypeScript** for type safety.
 - [ ] **v3.0:** Integration tests with **Vitest**.
 
 <div align="center">
