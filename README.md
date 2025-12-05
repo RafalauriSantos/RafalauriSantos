@@ -73,7 +73,7 @@ I am a **Fullstack Developer** passionate about turning business logic into reli
 My plan to take my projects to the next level:
 
 - [x] **v1.0:** Decoupled Architecture (React + Node) & SQL Persistence.
-- [ ] **v1.5:** Refactor to **Clean Architecture** & Components.
+- [x] **v1.5:** Refactor to **Clean Architecture** & Components.
 - [ ] **v2.0:** Migration to **TypeScript** for type safety.
 - [ ] **v3.0:** Integration tests with **Vitest**.
 
