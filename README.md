@@ -1,86 +1,83 @@
 <div align="center">
-  
-  # Hi there, I'm Rafael Lauri! 👋
-  
-  ### Junior Fullstack Developer (Node.js & React)
-  
-  *Open to opportunities in Brazil & Europe (Spain)* 🇧🇷 🇪🇸
-  
-  <br/>
 
-  <a href="https://www.linkedin.com/in/rafael-lauri-moraes-santos-717773186">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rafa69lauri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hello,+I'm+Rafael+Lauri!;Fullstack+Developer;Node.js+%7C+React+%7C+SQL;Ready+for+Global+Challenges" alt="Typing SVG" />
+
+<br/>
+
+<h3>🚀 Junior Fullstack Developer</h3>
+
+<p>
+Building <b>clean, scalable architectures</b> and <b>modern user interfaces</b>.<br/>
+Focusing on the JavaScript Ecosystem (Node.js & React).
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/rafael-lauri-moraes-santos-717773186" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rafa69lauri@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/RafalauriSantos">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+<p>
+🇧🇷 Brazil &nbsp;|&nbsp; 🇪🇺 Europe (Open to Relocation) &nbsp;|&nbsp; 🌐 Remote
+</p>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
-
-I am a **Systems Development student** and **Fullstack Developer** passionate about the JavaScript ecosystem. My focus is on building complete solutions, from the database architecture to the user interface.
-
-My approach is practical: **I believe good code is code that solves problems.**
-
-* 🔭 **I’m currently working on:** A robust Fullstack Task Manager using **React**, **Node.js (Fastify)**, and **SQL**.
-* 🌱 **I’m currently learning:** Advanced React Patterns & TypeScript.
-* 💡 **My expertise:** Building performant **RESTful APIs**, managing frontend state with **Hooks**, and handling **Data Persistence**.
-* 🚀 **Goal:** Looking for Junior/Mid-level opportunities (Remote or Relocation).
-
-<br/>
-
-## 🛠️ Tech Stack
-
 <div align="center">
-  
-  **Front-end**
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-  <br/>
-  <br/>
+### 🛠️ Core Technologies
 
-  **Back-end & Database**
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,sqlite,html,css,git,github,vscode,postman&perline=11" />
 
-  <br/>
-  <br/>
+<br/><br/>
 
-  **Tools**
-  <br/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=postman&logoColor=white" height="25" />
+<img src="https://img.shields.io/badge/Clean%20Code-00C853?style=flat-square" height="25" />
 
 </div>
 
 <br/>
 
-## 📈 GitHub Stats
+## ⚡ About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafalauriSantos&show_icons=true&theme=dracula&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafalauriSantos&layout=compact&theme=dracula&hide_border=true" height="180" alt="languages graph"  />
-</div>
+> **"Good code is code that solves problems."**
+
+I am a **Fullstack Developer** passionate about turning business logic into reliable software. I specialize in bridging the gap between database modeling and fluid UI experiences.
+
+* 🔭 **Current Project:** A decoupled Task Manager using **React** (Frontend) and **Node.js/Fastify** (Backend).
+* 🌱 **Deepening Knowledge:** System Design, TypeScript, and Advanced SQL.
+* 🎯 **Career Goal:** Secure a position as a Junior/Mid-level Developer in an international environment.
 
 <br/>
 
+## 🌐 Featured Project
+
+> **Fullstack Task Manager (SQL & React)**
+> 
+> A robust application demonstrating Client-Server architecture.
+> * **Backend:** Node.js, Fastify, SQLite (CRUD + Persistence).
+> * **Frontend:** React, Vite, Hooks, Optimistic UI.
+> * **DevOps:** Concurrent execution and CORS handling.
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafalauriSantos&theme=dracula&hide_border=true" alt="streak graph" />
+<a href="https://github.com/RafalauriSantos/todo-fullstack-sqlite">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafalauriSantos&repo=todo-fullstack-sqlite&theme=tokyonight&hide_border=true" />
+</a>
 </div>
 
----
+<br/><br/>
+
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafalauriSantos&theme=tokyonight&hide_border=true" alt="streak stats" />
+<br/>
+<sub><i>Let's build the future together. 🚀</i></sub>
 </div>
