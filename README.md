@@ -35,7 +35,7 @@ Focusing on the JavaScript Ecosystem (Node.js & React).
 
 ### 🛠️ Core Technologies
 
-<img src="https://skillicons.dev/icons?i=react,vite,js,nodejs,sqlite,html,css,git,github,vscode,postman&perline=11" />
+<img src="https://skillicons.dev/icons?i=react,vite,ts,js,nodejs,sqlite,html,css,git,github,vscode,postman&perline=12" />
 
 <br/><br/>
 
@@ -68,7 +68,15 @@ I am a **Fullstack Developer** passionate about turning business logic into reli
 > * **Frontend:** React, Vite, Hooks, Optimistic UI.
 > * **DevOps:** Concurrent execution and CORS handling.
 
-  ## 🗺️ Technical Roadmap
+<div align="center">
+<a href="https://github.com/RafalauriSantos/todo-fullstack-sqlite">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafalauriSantos&repo=todo-fullstack-sqlite&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
+<br/>
+
+## 🗺️ Technical Roadmap
 
 My plan to take my projects to the next level:
 
@@ -76,12 +84,6 @@ My plan to take my projects to the next level:
 - [x] **v1.5:** Refactor to **Clean Architecture** & Components.
 - [x] **v2.0:** Migration to **TypeScript** for type safety.
 - [x] **v3.0:** Integration tests with **Vitest**.
-
-<div align="center">
-<a href="https://github.com/RafalauriSantos/todo-fullstack-sqlite">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RafalauriSantos&repo=todo-fullstack-sqlite&theme=tokyonight&hide_border=true" />
-</a>
-</div>
 
 <br/><br/>
 
