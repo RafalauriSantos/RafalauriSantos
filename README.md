@@ -1,96 +1,128 @@
 <div align="center">
 
-# ⚽ ArenaSys
-### O Sistema Operacional para Complexos Esportivos
-
-> **Gestão inteligente, agendamento instantâneo e fim do caos no WhatsApp.**
-
-![Status](http://img.shields.io/static/v1?label=STATUS&message=EM%20PRODUÇÃO&color=GREEN&style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
-![AI Assisted](https://img.shields.io/badge/AI%20Pair-Programming-purple?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:10b981&height=120&section=header&text=Rafael%20Lauri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <br/>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=10b981&center=true&vCenter=true&width=600&lines=SaaS+Builder+%26+Fullstack+Dev;AI-Augmented+Workflow;Optimizing+Sports+Management;Shipping+Production+Code)](https://github.com/RafalauriSantos)
+
+<p>
+  <b>Desenvolvedor focado em Produto e Performance.</b><br/>
+  <sub><em>Não apenas escrevo código. Orquestro tecnologia para resolver problemas de negócio.</em></sub>
+</p>
 
 <br/>
 
-[**🌐 Ver Demo Online**](https://arenasys.com.br) &nbsp;|&nbsp; [**📄 Documentação da API**](./docs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lauri-moraes-santos-717773186)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa69lauri@gmail.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ArenaSys-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://arenasys.com.br)
 
 </div>
 
 ---
 
-## 💡 Sobre o Projeto
+## 👋 Sobre mim: Eficiência e Entrega
 
-O **ArenaSys** é uma plataforma SaaS Multi-tenant (B2B2C) que resolve a dor latente de donos de quadras: **perda de receita por desorganização**.
+Sou um **SaaS Builder** que trabalha na intersecção entre engenharia de software e visão de produto.
 
-Diferente de agendas genéricas, o sistema foi desenhado para alta concorrência e velocidade, permitindo que o cliente final agende seu horário em menos de 30 segundos, enquanto o dono da quadra tem controle financeiro total.
+Minha filosofia de trabalho é baseada em **Alta Performance**:
 
-### Principais Funcionalidades
+- 🏎️ **Desenvolvimento Ágil:** Especialista em transformar janelas curtas de foco em entregas densas e funcionais.
+- 🤖 **AI-Augmented Workflow:** Utilizo Inteligência Artificial como parceira de programação — acelero prototipagem e validação de arquiteturas, concentrando meu esforço na lógica de negócio e na segurança. Na prática, isso significa entregar soluções robustas em menos tempo, com mais qualidade e menos retrabalho.
+- 🎯 **Foco no Problema:** Acredito que o código é apenas o meio. O fim é resolver a dor do cliente.
 
-| 🏢 Para a Arena (Admin) | ⚽ Para o Jogador (App) |
+---
+
+## 🚀 Projeto Vitrine — ArenaSys
+
+O **ArenaSys** é uma plataforma SaaS Multi-tenant (B2B2C) em produção, desenvolvida para eliminar o caos operacional de complexos esportivos.
+
+Ele resolve um problema crítico: **a perda de receita por desorganização.** O sistema substitui planilhas e conversas no WhatsApp por um motor de agendamento automático.
+
+### 📊 Métricas e resultados (em desenvolvimento)
+
+- ⚡ **Interface reativa:** Respostas instantâneas (Optimistic UI) com latência imperceptível (< 50ms).
+- 🔒 **Isolamento multi-tenant:** Políticas RLS testadas e validadas para garantir segurança total dos dados.
+- 💳 **Pagamentos automatizados:** Webhooks processando transações em segundos via gateway Asaas.
+- 👥 **Validação em andamento:** 3 arenas parceiras testando o sistema e fornecendo feedback para melhoria contínua.
+
+### 🧠 Engenharia & Diferenciais Técnicos
+
+Não é apenas um CRUD. O sistema utiliza uma arquitetura moderna para garantir escala e segurança:
+
+| Feature | Tecnologia & Implementação |
 | :--- | :--- |
-| **Dashboard Financeiro** com gráficos em tempo real | **Agendamento Instantâneo** sem login obrigatório |
-| **Gestão de Quadras** e preços dinâmicos | **Pagamento Online** via Pix/Cartão (Asaas) |
-| **Bloqueio de Horários** recorrentes (Mensalistas) | **Histórico de Jogos** e convites via WhatsApp |
-| **Multi-Tenant:** Isolamento total de dados | **UX Mobile-First:** Funciona como app nativo |
+| **⚡ Performance** | **Optimistic UI** com React Query. A interface responde em 0ms (instantânea), sincronizando em background. |
+| **🔒 Segurança** | **Row Level Security (RLS)** nativo do PostgreSQL. Garante isolamento total de dados entre inquilinos (Multi-tenant). |
+| **💳 Billing** | **Serverless Edge Functions** integradas ao gateway **Asaas** para gestão automática de assinaturas e bloqueios. |
+| **📱 UX Mobile** | Design **Mobile-First** focado em conversão: agendamento completo em menos de 30 segundos. |
+
+🔗 **Demo ao vivo:** [arenasys.com.br](https://arenasys.com.br)
 
 ---
 
-## 🧠 Engenharia & Arquitetura
+## 🤖 Metodologia: "Vibe Coding"
 
-Este projeto utiliza uma arquitetura **Serverless** moderna focada em performance e segurança de dados.
+Adoto uma abordagem **AI-Native** no desenvolvimento.
+Em vez de gastar horas com sintaxe repetitiva, utilizo **Pair Programming com IA** para:
 
-### 1. Performance "Piscar de Olhos" (Optimistic UI)
-> **Desafio:** Usuários abandonam o agendamento se a tela demorar a carregar.
-> **Solução:** Implementação de **React Query** com *Optimistic Updates*. A interface responde instantaneamente ao clique do usuário, sincronizando com o banco em background. Redução de 40% no tempo de percepção de latência.
+1. **Prototipar:** Gerar interfaces complexas e boilerplates em minutos.
+2. **Validar:** Simular cenários de carga e testar lógicas de segurança (RLS).
+3. **Refinar:** Atuo como arquiteto, refinando o código gerado para garantir performance e manutenibilidade.
 
-### 2. Segurança Bancária (Row Level Security)
-> **Desafio:** Garantir que a "Arena A" jamais veja os dados da "Arena B" no mesmo banco.
-> **Solução:** Políticas de RLS (Row Level Security) nativas do PostgreSQL. O isolamento é feito no nível do banco de dados, não apenas na aplicação. Mesmo se o frontend for comprometido, os dados vizinhos estão blindados.
-
-### 3. Billing & Assinaturas (Integração Asaas)
-> **Motor de Pagamentos:** Sistema completo de assinatura (SaaS) integrado via Webhooks.
-> * Trial automático de 7 dias.
-> * Bloqueio automático de inadimplentes via Edge Functions.
-> * Webhooks seguros com validação de assinatura digital.
+> *"Vibe Coding não é sobre programar menos. É sobre entregar valor muito mais rápido."*
 
 ---
 
-## 🎨 Layout & Preview
+## 🛠️ Stack Tecnológica
+
+Trabalho com ferramentas que priorizam performance de runtime e velocidade de desenvolvimento.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450?text=Dashboard+ArenaSys+Dark+Mode" alt="ArenaSys Dashboard" style="border-radius: 10px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
-  <br/><br/>
-  <img src="https://via.placeholder.com/300x600?text=Mobile+Booking" alt="Mobile View" height="400" style="border-radius: 10px; margin-right: 20px;">
-  <img src="https://via.placeholder.com/300x600?text=Financial+Reports" alt="Financial View" height="400" style="border-radius: 10px;">
+
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Asaas](https://img.shields.io/badge/Asaas-4CAF50?style=flat-square&logo=asaas&logoColor=white)
+
 </div>
 
 ---
 
-## 🚀 Guia de Desenvolvimento (Receita de Bolo)
+## 🤝 Como posso ajudar?
 
-Este projeto utiliza **Bun** como runtime padrão para instalação e scripts, garantindo builds até 3x mais rápidos.
+**Para recrutadores**  
+Estou aberto a oportunidades como Desenvolvedor Fullstack Júnior, onde possa aplicar minha visão de produto e metodologia AI‑augmented para acelerar entregas e resolver problemas reais.
 
-### 1. Pré-requisitos
-* **Bun** instalado (ou Node.js 18+)
-* Conta no **Supabase** (Projeto criado)
-* Conta no **Asaas** (Sandbox ou Produção para billing)
+**Para donos de arenas esportivas**  
+Quer testar o ArenaSys na sua operação? Entre em contato para uma demonstração personalizada e veja como reduzir falhas de agendamento e aumentar sua receita.
 
-### 2. Instalação
+<div align="center">
+  <a href="mailto:rafa69lauri@gmail.com">
+    <img src="https://img.shields.io/badge/Fale_comigo-10b981?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://arenasys.com.br">
+    <img src="https://img.shields.io/badge/Acesse_ArenaSys-3b82f6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</div>
 
-```bash
-# Clone o repositório
-git clone [https://github.com/RafalauriSantos/arena-sys.git](https://github.com/RafalauriSantos/arena-sys.git)
-cd arena-sys
+---
 
-# Instale as dependências (Ultra rápido com Bun)
-bun install
+<div align="center">
 
-# Configure as variáveis de ambiente
-cp .env.example .env.local
+![Product Mindset](https://img.shields.io/badge/Product-Mindset-10b981?style=flat-square)
+![SaaS Architecture](https://img.shields.io/badge/SaaS-Architecture-3b82f6?style=flat-square)
+![High Performance](https://img.shields.io/badge/High-Performance-f59e0b?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-10b981?style=flat-square)
+
+<br/>
+
+<sub><b>Rafael Lauri</b> • Construindo em público • Resolvendo problemas reais</sub>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=RafalauriSantos&style=flat-square&color=10b981" alt="Profile views" />
+
+</div>
