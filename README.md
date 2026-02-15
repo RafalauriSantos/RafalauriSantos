@@ -33,7 +33,7 @@ Minha filosofia de trabalho é baseada em **Alta Performance**:
 
 ---
 
-## 🚀 Projeto Vitrine — ArenaSys
+## 🚀 Projeto - ArenaSys
 
 O **ArenaSys** é uma plataforma SaaS Multi-tenant (B2B2C) em produção, desenvolvida para eliminar o caos operacional de complexos esportivos.
 
