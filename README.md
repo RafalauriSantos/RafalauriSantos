@@ -11,4 +11,10 @@
 ---
 
 ### Sobre mim
-Desenvolvedor focado em construir soluções reais e escaláveis. Criador do **ArenaSys**, um SaaS para gestão de complexos esportivos, e do **PraticOdonto**. Atualmente cursando Desenvolvimento de Sistemas na ETEC Sales Gomes.
+Estou em transição de carreira para desenvolvimento de software, construindo minha base técnica com foco em JavaScript, Node.js, React e PostgreSQL.
+
+Criei o ArenaSys (arenasys.com.br) — um sistema de gestão de arenas esportivas que está em uso real — como forma de aprender na prática e lidar com problemas reais de desenvolvimento.
+
+Atualmente curso Técnico em Desenvolvimento de Sistemas pela ETEC Sales Gomes (conclusão em jun/2026) e estudo programação de forma estruturada  e autodidata, com foco em construir uma base sólida e entender profundamente o que desenvolvo.
+
+Busco minha primeira oportunidade como desenvolvedor, onde eu possa continuar evoluindo e contribuir com soluções reais.
