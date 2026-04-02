@@ -1,6 +1,6 @@
 # Rafael Lauri
 
-**Fullstack Developer | Node.js · React · SQL**
+**Desenvolvedor | JavaScript · Node.js · React · SQL**
 
 
 
