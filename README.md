@@ -1,20 +1,17 @@
 # Rafael Lauri
 
-**Desenvolvedor | JavaScript · Node.js · React · SQL**
+**Desenvolvedor Full Stack Jr. | React · Node.js · TypeScript · PostgreSQLL**
 
-
-
-📫 orafaellauri@gmail.com  
+📫 rafa69lauri@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-lauri-717773186)  
-🚀 [ArenaSys](https://arenasys.com.br) — Sistema de Gestão em Produção
+🚀 [ArenaSys](https://arenasys.com.br) — SaaS para gestão de arenas esportivas
 
 ---
 
 ### Sobre mim
-Estou em transição de carreira para desenvolvimento de software, construindo minha base técnica com foco em JavaScript, Node.js, React e PostgreSQL.
 
-Criei o ArenaSys (arenasys.com.br) — um sistema de gestão de arenas esportivas que está em uso real — como forma de aprender na prática e lidar com problemas reais de desenvolvimento.
+Desenvolvedor Full Stack Jr. com foco em aplicações web utilizando React, TypeScript, Node.js e PostgreSQL.
 
-Atualmente curso Técnico em Desenvolvimento de Sistemas pela ETEC Sales Gomes (conclusão em jun/2026) e estudo programação de forma estruturada  e autodidata, com foco em construir uma base sólida e entender profundamente o que desenvolvo.
+Desenvolvo o **ArenaSys**, uma plataforma para gestão de arenas esportivas publicada em produção, e o **Marque's Barbearia**, um sistema para gestão de barbearias.
 
-Busco minha primeira oportunidade como desenvolvedor, onde eu possa continuar evoluindo e contribuir com soluções reais.
+Atualmente concluo o curso Técnico em Desenvolvimento de Sistemas pela ETEC Sales Gomes e sigo aprofundando meus conhecimentos por meio de projetos próprios e documentação técnica.
