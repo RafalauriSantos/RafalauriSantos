@@ -5,6 +5,8 @@
 📫 rafa69lauri@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-lauri-717773186)  
 🚀 [ArenaSys](https://arenasys.com.br) — SaaS para gestão de arenas esportivas
+🚀 [Marque´s Barbearia](https://barbearia-app.pages.dev/) — SaaS para gestão de Barbearias
+
 
 ---
 
