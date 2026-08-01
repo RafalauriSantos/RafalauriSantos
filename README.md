@@ -1,19 +1,38 @@
-# Rafael Lauri
+<div align="center">
 
-**Desenvolvedor Full Stack Jr. | React · Node.js · TypeScript · PostgreSQLL**
+# Olá, eu sou o Rafael 👋
 
-📫 rafa69lauri@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rafael-lauri-717773186)  
-🚀 [ArenaSys](https://arenasys.com.br) — SaaS para gestão de arenas esportivas
-🚀 [Marque´s Barbearia](https://barbearia-app.pages.dev/) — SaaS para gestão de Barbearias
+**Desenvolvedor Full Stack Jr.**
 
+![Views](https://komarev.com/ghpvc/?username=RafalauriSantos&color=blueviolet&style=flat-square)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+</div>
 
 ---
 
-### Sobre mim
+### 🧭 Sobre mim
 
-Desenvolvedor Full Stack Jr. com foco em aplicações web utilizando React, TypeScript, Node.js e PostgreSQL.
+Desenvolvedor Full Stack Jr., com formação técnica em Desenvolvimento de Sistemas pela ETEC Sales Gomes e mais de 8 anos de experiência prévia em ambiente industrial, período em que consolidou disciplina e capacidade de entrega sob rotina exigente.
 
-Desenvolvo o **ArenaSys**, uma plataforma para gestão de arenas esportivas publicada em produção, e o **Marque's Barbearia**, um sistema para gestão de barbearias.
+Nos últimos 2 anos, migrou para desenvolvimento de software e construiu de forma independente dois produtos SaaS completos — abrangendo front-end, back-end e banco de dados, com **React**, **TypeScript**, **Supabase** e **Cloudflare**.
 
-Atualmente concluo o curso Técnico em Desenvolvimento de Sistemas pela ETEC Sales Gomes e sigo aprofundando meus conhecimentos por meio de projetos próprios e documentação técnica.
+Busca atualmente sua primeira oportunidade formal na área, com interesse em integrar um time de engenharia e seguir evoluindo tecnicamente.
+
+---
+
+### 🚀 Projetos
+
+**[ArenaSys](https://arenasys.com.br)** — SaaS para gestão de arenas esportivas
+**[Marque's Barbearia](https://barbearia-app.pages.dev/)** — SaaS para gestão de barbearias
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rafael-lauri-717773186)
+[![Gmail](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:rafa69lauri@gmail.com)
