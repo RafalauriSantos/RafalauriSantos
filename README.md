@@ -6,7 +6,7 @@
 
 Full Stack Developer · React · TypeScript · Node.js · PostgreSQL · Java/Spring · Cloudflare · AI-assisted engineering
 
-[LinkedIn](https://www.linkedin.com/in/rafael-lauri/) · [Email](mailto:rafa69lauri@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--lauri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lauri/) [![Email](https://img.shields.io/badge/Email-rafa69lauri%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafa69lauri@gmail.com)
 
 </div>
 
@@ -24,7 +24,7 @@ I build full stack applications, APIs, automations and product-oriented solution
 
 - **[Sistema Mini Mercado](https://github.com/RafalauriSantos/sistema-mini-mercado)** — POS system for a real small-market operation.
 - **[Form-AI](https://github.com/RafalauriSantos/form-ai)** — Structured business discovery through a lightweight web form.
-- **[WorkHunter](https://github.com/RafalauriSantos/job-finder) + [Haadar](https://github.com/RafalauriSantos/haadar)** — Complementary job-discovery systems focused on automation, relevance and early signals.
+- **[WorkHunter](https://github.com/RafalauriSantos/job-finder)** — Automated job-discovery system focused on multi-source collection, deduplication, relevance evaluation and fast alerts.
 - **[Mynder](https://github.com/RafalauriSantos/mynder)** — Visual workspace for mind maps and free-form thinking.
 - **[Marque's Barbearia](https://barbearia-app.pages.dev/)** — Full stack management app for a real barbershop operation.
 - **[ArenaSys](https://arenasys.com.br)** — SaaS for sports arena management and online reservations.
