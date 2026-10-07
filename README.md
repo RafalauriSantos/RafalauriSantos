@@ -28,15 +28,17 @@ Uso IA como ferramenta de engenharia para acelerar pesquisa, implementação, te
 
 ### Projetos em destaque
 
-**[WorkHunter](https://github.com/RafalauriSantos/job-finder)** — Radar automatizado de vagas que coleta oportunidades de múltiplas fontes, normaliza e deduplica dados, aplica regras de elegibilidade, utiliza LLMs em casos ambíguos e envia alertas úteis.
+**[Form-AI](https://github.com/RafalauriSantos/form-ai)** — Microproduto criado para transformar levantamento de requisitos em decisões estruturadas. Usa Cloudflare Workers, D1 e Telegram para coletar respostas de clientes sem depender de plataformas externas.
 
-**[ArenaSys](https://arenasys.com.br)** — SaaS para gestão de arenas esportivas, com reservas online, painel administrativo, arquitetura multi-tenant, realtime e integração com pagamentos.
+**[Sistema Mini Mercado](https://github.com/RafalauriSantos/sistema-mini-mercado)** — PDV em planejamento para digitalizar vendas, caixa, clientes, estoque e alertas operacionais de um mini mercado real. O projeto parte das regras de negócio antes da implementação e prevê integrações com Stone e WhatsApp após validação técnica.
+
+**[WorkHunter](https://github.com/RafalauriSantos/job-finder) + [Haadar](https://github.com/RafalauriSantos/haadar)** — Dois componentes complementares do mesmo ecossistema de descoberta de vagas. O WorkHunter executa o radar local, com coleta multi-fonte, deduplicação, avaliação com LLM/fallback e alertas; o Haadar explora uma arquitetura Cloudflare-native, free-first e orientada a descoberta antecipada e observável.
+
+**[Mynder](https://github.com/RafalauriSantos/mynder)** — Ferramenta visual para organizar ideias com mapa mental e canvas livre no mesmo quadro, com persistência local, exportação/importação e suporte offline.
 
 **[Marque's Barbearia](https://barbearia-app.pages.dev/)** — Aplicação full stack para gestão de barbearia, com agenda, autenticação, controle financeiro, PWA, sincronização offline e backend serverless na Cloudflare.
 
-**[Haadar](https://github.com/RafalauriSantos/haadar)** — Backend serverless para descoberta antecipada de oportunidades, projetado com arquitetura Cloudflare-native, observabilidade e restrição de custo zero no MVP.
-
-**[Sistema Mini Mercado](https://github.com/RafalauriSantos/sistema-mini-mercado)** — Projeto em evolução para digitalizar a operação de um mini mercado. O primeiro microproduto coleta decisões de negócio por formulário web, armazena respostas no Cloudflare D1 e envia notificações via Telegram.
+**[ArenaSys](https://arenasys.com.br)** — SaaS para gestão de arenas esportivas, com reservas online, painel administrativo, arquitetura multi-tenant, realtime e integração com pagamentos.
 
 ---
 
