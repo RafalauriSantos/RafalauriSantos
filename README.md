@@ -28,9 +28,9 @@ Uso IA como ferramenta de engenharia para acelerar pesquisa, implementação, te
 
 ### Projetos em destaque
 
-**[Form-AI](https://github.com/RafalauriSantos/form-ai)** — Microproduto criado para transformar levantamento de requisitos em decisões estruturadas. Usa Cloudflare Workers, D1 e Telegram para coletar respostas de clientes sem depender de plataformas externas.
-
 **[Sistema Mini Mercado](https://github.com/RafalauriSantos/sistema-mini-mercado)** — PDV em planejamento para digitalizar vendas, caixa, clientes, estoque e alertas operacionais de um mini mercado real. O projeto parte das regras de negócio antes da implementação e prevê integrações com Stone e WhatsApp após validação técnica.
+
+**[Form-AI](https://github.com/RafalauriSantos/form-ai)** — Microproduto criado dentro do processo de descoberta do Sistema Mini Mercado para transformar levantamento de requisitos em decisões estruturadas. Usa Cloudflare Workers, D1 e Telegram para coletar respostas de clientes sem depender de plataformas externas.
 
 **[WorkHunter](https://github.com/RafalauriSantos/job-finder) + [Haadar](https://github.com/RafalauriSantos/haadar)** — Dois componentes complementares do mesmo ecossistema de descoberta de vagas. O WorkHunter executa o radar local, com coleta multi-fonte, deduplicação, avaliação com LLM/fallback e alertas; o Haadar explora uma arquitetura Cloudflare-native, free-first e orientada a descoberta antecipada e observável.
 
