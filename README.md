@@ -2,9 +2,9 @@
 
 # Rafael Lauri
 
-**I build software to solve real problems — from idea and requirements to production.**
+**Software Engineer**
 
-Full Stack Developer · React · TypeScript · Node.js · PostgreSQL · Java/Spring · Cloudflare · AI-assisted engineering
+Building practical software solutions with web, backend, automation and AI-assisted engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--lauri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lauri/) [![Email](https://img.shields.io/badge/Email-rafa69lauri%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rafa69lauri@gmail.com)
 
@@ -14,7 +14,7 @@ Full Stack Developer · React · TypeScript · Node.js · PostgreSQL · Java/Spr
 
 ### About
 
-Analytical and pragmatic developer focused on understanding the problem before choosing the technology.
+Analytical and pragmatic software engineer focused on understanding the problem before choosing the technology.
 
 I build full stack applications, APIs, automations and product-oriented solutions. I use AI to accelerate research, implementation, testing, debugging and review, while keeping technical decisions, validation and quality under my responsibility.
 
